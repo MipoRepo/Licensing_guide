@@ -1,15 +1,15 @@
 
-# Markdown ohjeistusta
+# Muutama sana lisensseistä tulevia projekteja varten
 ---
 
-Tämä repo on pyhitetty Marddownille.
+Käsitellään lisenssien merkitystä ohjelmoinnissa ja sekä tutkitaan yleisimpiä lisennsityyppejä.
 
 ---
 #### 📦 Asennus
 
 1. Kloonaa repo:
    ```bash
-   git clone https://github.com/MipoRepo/Markdown_cheat_sheet
+   git clone https://github.com/MipoRepo/Licensing_guide
 
 ---
 ### License & Terms
