@@ -1,5 +1,5 @@
 
-# Muutama sana lisensseistä tulevia projekteja varten
+# Muutama sana lisensseistä tulevia
 ---
 
 Käsitellään lisenssien merkitystä ohjelmoinnissa ja sekä tutkitaan yleisimpiä lisennsityyppejä.
