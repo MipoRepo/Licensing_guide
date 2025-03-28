@@ -9,7 +9,7 @@ __Selkeästi ja tarkasti (eksplisiittisesti) määritetty lisenssi__, antaa käy
 
 Vaikka lisenssit voivat vaikuttaa monimutkaisilta oikeudellisilta asiakirjoilta, onneksi useat avoimen lähdekoodin lisenssit ovat sekä yhteisön laajalti käyttämiä että helppotajuisia.
 
-
+Lisäys
 >__Reprodusoitava tiede (Reproducible Science)__ viittaa siihen, että tieteellinen tutkimus on toistettavissa ja varmistettavissa. 
 > Lisenssin nimenomainen määrittely (eksplisiittisyys) on  keskeinen osa tätä prosessia, 
 > koska se mahdollistaa työn laillisen käytön, muokkaamisen ja jakamisen. Ilman selkeää lisenssiä reprodusoitavuus heikkenee, 
@@ -73,6 +73,7 @@ se mahdollistaa uusien ideoiden laajan käytön ja samalla varmistaa, että asia
 
 __MIT-lisenssi on muodoltaan yksinkertainen:__  
 (suomennettu ainoastaan tämän dokumentin käyttöön)
+Lisäys
 
 ```
 MIT License
@@ -142,7 +143,8 @@ __Käyttötarkoitukset__
 Alilisensointi on yleinen käytäntö esimerkiksi ohjelmistoteollisuudessa, 
 ja se mahdollistaa joustavamman lisenssien hallinnan ja jakelun.
 ---
-#### Mihin lisenssien käsite *"merkittäviin osiin ohjelmasta"* viittaa?
+#### Mihin lisenssien käsite *"merkittäviin osiin ohjelmasta"* viittaa? 
+Lisäys
 
 Lauseessa **"merkittäviin osiin ohjelmasta"** viitataan ohjelman osiin, jotka ovat riittävän suuria tai oleellisia, jotta ne vaikuttavat ohjelman kokonaisuuteen. Tämä ilmaisu on tarkoituksella joustava, ja sen tarkka merkitys riippuu kontekstista sekä lainsäädännöstä. 
 
